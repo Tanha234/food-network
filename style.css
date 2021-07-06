@@ -113,4 +113,7 @@ p{
   .resize{
       border-radius: 5%;
   }
+  .flex{
+      display: flex;
+  }
   
