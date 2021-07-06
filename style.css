@@ -48,6 +48,7 @@ p{
   .myself{
       display: flex;
       background-image:url(images/Frame\ 56.jpg) ;
+      background-size: cover;
       background-repeat: no-repeat;
       padding:5%;
   } 
@@ -139,4 +140,33 @@ p{
       background:rgb(179, 217, 240);
       margin-top: 34px;
   }
-  
+  .chef{
+      display: flex;
+      background-image: url(images/Frame\ 58.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      padding:5%;
+  }
+  .apple{
+      text-decoration: none;
+  }
+  .name{
+      display:flex;
+      width:40%
+      margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding:4%;
+    border-radius: 7%;
+    margin-top: 5%;
+  }
+  .healthy{
+      display: flex;
+      background-image:url(images/Frame\ 59.jpg) ;
+      background-size: cover;
+      background-repeat: no-repeat;
+      padding:5%;
+      border-top:5px;
+      
+      
+  }
