@@ -111,24 +111,26 @@ p{
   .flex{
       display: flex;
   }
-  .combine{
-      display:flex;
-    width:40%;
-    box-shadow: 10px 10px 40px goldenrod;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 5%;
-    padding:2%;
-    border-radius: 2%;
-    margin-top: 5%;
-     border-image: linear-gradient(rgb(238, 9, 9) rgb(1, 1, 29));
-      border-image-slice:1 ;
-      border-left: 7px solid rgb(204, 204, 180);
-}
+  .Fruits{
+    display:flex;
+  width:40%;
+  box-shadow: 10px 10px 40px goldenrod;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  padding:2%;
+  border-radius: 2%;
+  margin-top: 5%;
+   border-image: linear-gradient(rgb(238, 9, 9) rgb(1, 1, 29));
+    border-image-slice:1 ;
+    border-left: 7px solid rgb(110, 110, 44);
   }
+
+  
   footer{
       text-align: center;
-      background-color: cadetblue;
+      background-color: cornflowerblue;
+      height:120px;
   }
   .chef{
       display: flex;
@@ -142,13 +144,11 @@ p{
       text-decoration: none;
   }
   .name{
+    text-algin:center; 
     display:flex;
     padding:20px;
     
-    text-align:center;
-      
-     
-  }
+    }
   .healthy{
       display: flex;
       background-image:url(images/Frame\ 59.jpg) ;
@@ -164,5 +164,13 @@ p{
   .recipe{
 
   color:rgb(119, 8, 119);
+  }
+  .rest{
+      
+      padding:2%;
+
+  }
+  .info{
+      padding:2%;
   }
   
