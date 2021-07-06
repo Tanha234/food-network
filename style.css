@@ -37,7 +37,7 @@ h2{
 .food{
     text-decoration: none;
     padding:10px 15px;
-    background-image:linear-gradient(rgb(65, 61, 56),rgb(139, 156, 175));
+    background-image:linear-gradient(rgb(175, 170, 164),rgb(142, 176, 214));
     color:rgb(177, 3, 212);
     font-weight:700;
     border-radius: 20%;
@@ -113,25 +113,22 @@ p{
   }
   .combine{
       display:flex;
-      padding:5%;
-      width:40%;
-    box-shadow: 1px 1px 3px rgb(176, 11, 218);
+    width:40%;
+    box-shadow: 10px 10px 40px goldenrod;
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 5%;
-    padding:4%;
-    border-radius: 7%;
+    padding:2%;
+    border-radius: 2%;
     margin-top: 5%;
-    border-image: linear-gradient(#323280, #2f2149) ;
-    border-image-slice:1 ;
-    border-left: 5px solid rgb(1, 0, 17));
-    text
-      
+     border-image: linear-gradient(rgb(238, 9, 9) rgb(1, 1, 29));
+      border-image-slice:1 ;
+      border-left: 7px solid rgb(204, 204, 180);
+}
   }
   footer{
       text-align: center;
-      background:rgb(179, 217, 240);
-      margin-top: 34px;
+      background-color: cadetblue;
   }
   .chef{
       display: flex;
@@ -145,14 +142,12 @@ p{
       text-decoration: none;
   }
   .name{
-      display:flex;
-      width:40%
-      margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 5%;
-    padding:4%;
-    border-radius: 7%;
-    margin-top: 5%;
+    display:flex;
+    padding:20px;
+    
+    text-align:center;
+      
+     
   }
   .healthy{
       display: flex;
@@ -170,3 +165,4 @@ p{
 
   color:rgb(119, 8, 119);
   }
+  
