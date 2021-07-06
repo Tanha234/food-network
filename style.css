@@ -1,0 +1,70 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color:rgb(95, 6, 95);
+    margin:3px;
+   
+    
+}
+.size{
+    font-size: 50px;
+    font-weight:40% ;
+    
+    
+}
+h2{
+    font-size:40px ;
+}
+.color-chng
+{
+    color: rgb(87, 95, 146);
+}
+.diet-img{
+    width:60%;
+}
+.diet{
+    width:78%;
+    padding-left:7%;
+}
+    
+.network{
+    display:flex;
+    margin-bottom: 100px;
+}
+    
+    
+    
+.food{
+    text-decoration: none;
+    padding:10px 15px;
+    background-image:linear-gradient(rgb(65, 61, 56),rgb(139, 156, 175));
+    color:rgb(73, 3, 212);
+    font-weight:700;
+    border-radius: 20%;
+}
+p{
+    font:20px;
+}
+  .myself{
+      display: flex;
+      background-image:url(images/Frame\ 56.jpg) ;
+      background-repeat: no-repeat;
+      padding:5%;
+  } 
+  .Cooking{
+    text-decoration: none;
+    padding:10px 15px;
+    background-image:linear-gradient(rgb(65, 61, 56),rgb(139, 156, 175));
+    color:rgb(73, 3, 212);
+    font-weight:700;
+    border-radius: 15%;
+  } 
+  .center{
+      text-align: center;
+      padding:2%;
+  }
+  .eat{
+      color: rgb(15, 86, 216);
+  }
+  
+  
