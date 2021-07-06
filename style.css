@@ -111,20 +111,8 @@ p{
   .flex{
       display: flex;
   }
-  .Fruits{
-    display:flex;
-  width:40%;
-  box-shadow: 10px 10px 40px goldenrod;
-  margin-left: 5%;
-  margin-right: 5%;
-  margin-bottom: 5%;
-  padding:2%;
-  border-radius: 2%;
-  margin-top: 5%;
-   border-image: linear-gradient(rgb(238, 9, 9) rgb(1, 1, 29));
-    border-image-slice:1 ;
-    border-left: 7px solid rgb(110, 110, 44);
-  }
+  
+  
 
   
   footer{
@@ -171,6 +159,16 @@ p{
 
   }
   .info{
+     
+      width:20%;
+      box-shadow: 7px 7px 10px grey;
+      border-radius:10px;
+      margin-top:8%;
+      margin-left: 10%;
+      margin-right:5%;
       padding:2%;
   }
   
+  .divide{
+      display:flex;
+  }
